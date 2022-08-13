@@ -1,9 +1,9 @@
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Felipe Azevedo</h1>
 
 
-🔥  </strong>Desenvolvedor Web</strong>
+🔥  </strong>Desenvolvedor Web</strong>;
 
-🔭  Atualmente estou cursando o <strong>Técnico em T.I</strong> na Universidade Federal do Rio Grande do Norte (UFRN).
+🔭  Atualmente estou cursando o <strong>Técnico em T.I</strong> na Universidade Federal do Rio Grande do Norte (UFRN);
 
 🎓  Além disso, Sou <strong>Graduado</strong> e <strong>Mestre</strong> em Educação Física pela UFRN. Durante o mestrado desenvolvi diversas habilidades como: <strong>leitura e escrita em inglês</strong>, resolver problemas de forma rápida,
 olhar crítico, <strong> lidar com pressão</strong> e <strong>falar em público</strong>(ministrei diversos treinamentos e aulas no ensino superior).    
