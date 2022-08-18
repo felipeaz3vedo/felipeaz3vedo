@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, me chamo Felipe de Azevedo Pessoa</h1>
 <h3 align="center">Desenvolvedor Web.</h3>
 
-- 🔭 Atualmente estou cursando o **Técnico em T.I na Universidade Federal do Rio Grande do Norte (UFRN);**
+- 🔭 Atualmente estou cursando o **técnico em T.I na Universidade Federal do Rio Grande do Norte (UFRN);**
 
-- 🌱 Estou atualmente **Aprimorando minhas habilidades front-end desenvolvendo projetos em vanilla Javascipt e React.**
+- 🌱 Estou atualmente aprimorando minhas habilidades front-end desenvolvendo projetos em **vanilla Javascipt e React**.
 
-- 🎓 Além disso, Sou **Graduado** e **Mestre em Educação Física pela UFRN**. Durante o mestrado desenvolvi diversas habilidades como: **leitura e escrita em inglês**, **resolver problemas de forma rápida**, **olhar crítico**, **lidar com pressão e falar em público(ministrei diversos treinamentos e aulas no ensino superior)**.
+- 🎓 Além disso, Sou **graduado** e **Mestre em Educação Física pela UFRN**. Durante o mestrado desenvolvi diversas habilidades como: **leitura e escrita em inglês**, **resolver problemas de forma rápida**, **olhar crítico**, **lidar com pressão e falar em público(ministrei diversos treinamentos e aulas no ensino superior)**.
 
-- 💬 Pergunte-me sobre **Javascript, typescript e React**
+- 💬 Pergunte-me sobre **Javascript e React**
 <br>
 <h3 align="left">Redes Sociais para me contatar através:</h3>
 <p align="left">
