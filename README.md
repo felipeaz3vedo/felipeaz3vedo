@@ -11,6 +11,7 @@
 <br>
 <h3 align="left">Redes sociais para contato:</h3>
 <p align="left">
+<a href="https://discord.gg/https://discord.gg/wRZaNRpS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wRZaNRpS" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/felipe-de-azevedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-de-azevedo" height="30" width="40" /></a>
 <a href="https://instagram.com/felipeazevedo1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipeazevedo1991" height="30" width="40" /></a>
 </p>
