@@ -5,9 +5,9 @@
 
 - 🌱 Estou atualmente **Aprimorando minhas habilidades front-end desenvolvendo projetos em React utilizando as melhores práticas com typescript.**
 
-- 🎓 **Além disso, Sou Graduado e Mestre em Educação Física pela UFRN. Durante o mestrado desenvolvi diversas habilidades como: leitura e escrita em inglês, resolver problemas de forma rápida, olhar crítico, lidar com pressão e falar em público(ministrei diversos treinamentos e aulas no ensino superior).**
+- 🎓 Além disso, Sou **Graduado** e **Mestre em Educação Física pela UFRN**. Durante o mestrado desenvolvi diversas habilidades como: **leitura e escrita em inglês**, **resolver problemas de forma rápida**, **olhar crítico**, **lidar com pressão e falar em público(ministrei diversos treinamentos e aulas no ensino superior)**.
 
-- 💬 Pergunte-me sobre **Javascript, typescript e React*
+- 💬 Pergunte-me sobre **Javascript, typescript e React**
 <br>
 <br>
 <h3 align="left">Redes Sociais para me contatar através:</h3>
