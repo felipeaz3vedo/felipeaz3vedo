@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou cursando o **Técnico em T.I na Universidade Federal do Rio Grande do Norte (UFRN);**
 
-- 🌱 Estou atualmente **Aprimorando minhas habilidades front-end desenvolvendo projetos em React utilizando as melhores práticas com typescript.**
+- 🌱 Estou atualmente **Aprimorando minhas habilidades front-end desenvolvendo projetos em vanilla Javascipt e React.**
 
 - 🎓 Além disso, Sou **Graduado** e **Mestre em Educação Física pela UFRN**. Durante o mestrado desenvolvi diversas habilidades como: **leitura e escrita em inglês**, **resolver problemas de forma rápida**, **olhar crítico**, **lidar com pressão e falar em público(ministrei diversos treinamentos e aulas no ensino superior)**.
 
