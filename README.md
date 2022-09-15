@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Felipe de Azevedo/h1>
+<h1 align="center">Olá 👋, me chamo Felipe de Azevedo</h1>
 <h3 align="center">Desenvolvedor Web.</h3>
 
 - 🔭 Atualmente estou cursando o **técnico em T.I na Universidade Federal do Rio Grande do Norte (UFRN)**;
