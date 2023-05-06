@@ -3,6 +3,7 @@
 - Atualmente estou trabalhando como desenvolvedor full stack em uma software house utilizando os principais frameworks e bibliotecas dos ecossistemas do Javascript/Typescript e PHP.
 
 <br>
+
 <h2 align="left">Linguagens e ferramentas</h2>
 <p align="left"
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></a>
@@ -22,12 +23,17 @@
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Git"/></a>
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubunbtu"/></a> 
 </p>
+
 <br>
+
 <h2>Estatíticas do Github</h2>
-<p><img style="height:170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeaz3vedo&show_icons=true&locale=en&layout=compact" alt="Linguagens mais utilizadas nos projetos do github" /></p>
-<p><img style="width:433px" align="center" src="https://github-readme-stats.vercel.app/api?username=felipeaz3vedo&show_icons=true&locale=en" alt="Estatísticas quantificando as ações realizadas no Github" /></p>
+<p>
+<img style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeaz3vedo&show_icons=true&locale=en&layout=compact" alt="Linguagens mais utilizadas nos projetos do  github" />
+</p>
+
 <br>
-<h2 align="left">Me encontre em outros lugares</h2>
+
+<h2>Me encontre em outros lugares</h2>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/wRZaNRpS" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Link para o discord"/></a>
 <a href="https://linkedin.com/in/felipe-de-azevedo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link para o linkedin"/></a>
