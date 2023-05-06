@@ -1,27 +1,25 @@
-<h1 align="center">Olá 👋, me chamo Felipe de Azevedo</h1>
-<h3 align="center">Desenvolvedor Web.</h3>
+<h1 align="center">Desenvolvedor Web Full Stack.</h1>
 
-- 🔭 Atualmente estou cursando o **técnico em T.I na Universidade Federal do Rio Grande do Norte (UFRN)**;
+- Atualmente estou trabalhando como desenvolvedor full stack em uma software house utilizando os principais frameworks e bibliotecas dos ecossistemas do Javascript/Typescript e PHP.
 
-- 🌱 Estou atualmente aprimorando minhas habilidades front-end desenvolvendo projetos com **React/Typescript**;
-
-- 🎓 Além disso, Sou **graduado** e **Mestre em Educação Física pela UFRN**. Durante o mestrado desenvolvi diversas habilidades como: **leitura e escrita em inglês**, **resolver problemas de forma rápida**, **olhar crítico**, **lidar com pressão e falar em público(ministrei diversos treinamentos e aulas no ensino superior)**;
-
-- 💬 Pergunte-me sobre **Javascript e React**.
 <br>
 <h2 align="left">Linguagens e ferramentas</h2>
 <p align="left"
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></a>
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></a>
-<a href="#" targer="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>
-<a href="#" targer="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/></a>
-<a href="#" targer="_blank"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/></a>
-<a href="#" targer="_blank"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="nestjs"/></a>
+<a href="#" targer="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+<a href="#" targer="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
+<a href="#" targer="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+<a href="#" targer="_blank"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nestjs"/></a>
+<a href="#" targer="_blank"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/></a>
+<a href="#" targer="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+<a href="#" targer="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/></a>
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/></a>
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/></a>
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></a>
+<a href="#" targer="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Github"/></a> 
-<a href="#" targer="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Git"/></a> 
+<a href="#" targer="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Git"/></a>
 <a href="#" targer="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubunbtu"/></a> 
 </p>
 <br>
