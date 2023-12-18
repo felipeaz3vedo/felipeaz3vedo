@@ -1,4 +1,4 @@
-<h1 align="center">Desenvolvedor Web Full Stack.</h1>
+<h1 align="center">Desenvolvedor Full Stack.</h1>
 
 - Programador **full stack** com experiência profissional na construção aplicações de ponta a ponta com as pricipais bibliotecas e frameworks dos ecossistemas do **Javascript/Typescript** e **PHP**.
 
